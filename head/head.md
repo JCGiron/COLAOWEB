@@ -10,10 +10,19 @@ The beetle head was studied in detail by Stickney (1923) who included nearly 150
 The head is the **tagma** containing the brain and mouth and located at the anterior end of insects, in front of the **thorax**. It bears the eyes and a group of **appendages** including the **antennae** and the **mouthparts**.
 
 
-![Head of _Helochares normatus_ (Hydrophilidae) in dorsal and ventral view](https://live.staticflickr.com/65535/50517718402_940691b8d9_b.jpg)
+![Head of _Helochares normatus_ (Hydrophilidae) in dorsal view](https://live.staticflickr.com/65535/50517586412_5d880fdbe5_h.jpg){:height="60%" width="60%"}
+###### Head of _Helochares normatus_ (Hydrophilidae) in dorsal view.
+
+
+![Head of _Helochares normatus_ (Hydrophilidae) in ventral view](https://live.staticflickr.com/65535/50517586297_f4f5dfc43a_h.jpg){:height="60%" width="60%"}
+###### Head of _Helochares normatus_ (Hydrophilidae) in ventral view.
 
 
 In dorsal view, from the posterior to the anterior end of the head (from the bottom in the image below), the first area of the head capsule is the **frons** (shaded in blue). 
+
+![Head of _Helochares normatus_ (Hydrophilidae) in dorsal view](https://live.staticflickr.com/65535/50517417346_84d46852cf_z.jpg){:height="60%" width="60%"}
+###### Head of _Helochares normatus_ (Hydrophilidae) in dorsal view, with **frons** highlighted in blue.
+
 
 
 # References #
